@@ -4,11 +4,11 @@ description: >-
 image: https://www.atlassian.com/dam/jcr:confluence-logo.png
 url: https://confluence.unity.com
 tags:
-  - collaboration
-  - documentation
-  - wiki
-  - knowledge base
-  - content management
+  - Collaboration
+  - Content Management
+  - Documentation
+  - Knowledge Base
+  - Wiki
 created: '2024-01-01'
 modified: '2026-03-16'
 apis:
@@ -19,10 +19,10 @@ apis:
     humanURL: https://confluence.unity.com/display/API
     baseURL: https://confluence.unity.com/rest/api
     tags:
+      - Content
+      - Pages
       - REST
-      - content
-      - spaces
-      - pages
+      - Spaces
     properties:
       - type: Documentation
         url: https://confluence.unity.com/rest/api/docs
@@ -39,10 +39,10 @@ apis:
       API for creating, reading, updating, and deleting content in Confluence.
     baseURL: https://confluence.unity.com/rest/api/content
     tags:
-      - content
+      - Blog Posts
+      - Content
       - CRUD
-      - pages
-      - blog posts
+      - Pages
     properties:
       - type: Documentation
         url: https://confluence.unity.com/rest/api/content/docs
@@ -53,9 +53,9 @@ apis:
       API for searching content across Confluence spaces.
     baseURL: https://confluence.unity.com/rest/api/search
     tags:
-      - search
       - CQL
-      - query
+      - Query
+      - Search
     properties:
       - type: Documentation
         url: https://confluence.unity.com/rest/api/search/docs
