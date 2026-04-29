@@ -1,71 +1,73 @@
-# Confluence Unity API (confluence-unity)
-API for Confluence Unity - A collaboration and documentation platform
+# Confluence Unity (confluence-unity)
 
-**URL:** [Visit APIs.json URL](https://confluence.unity.com)
+Confluence Unity is the unified fund administration and reporting platform from Confluence Technologies, a software provider focused on the global investment management industry. The Unity suite (including Unity Financial Reporting, Unity Performance, and Unity Rex for AI-driven reconciliation) consolidates data, regulatory and shareholder reporting, and performance analytics for asset managers, fund administrators, and asset servicers. Confluence operates Unity as a hosted SaaS platform with integrations into client data warehouses; the public site does not publish open developer API documentation, so developer access is typically arranged through Confluence account teams.
 
-## Tags:
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/confluence-unity/refs/heads/main/apis.yml)
 
- - collaboration, documentation, wiki, knowledge base, content management
+## Scope
+
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
+- **Classification:** Company
+
+## Tags
+
+- Asset Management, Asset Servicing, Financial Reporting, Fund Administration, Investment Management, Performance Analytics, Regulatory Reporting, SaaS
 
 ## Timestamps
 
-- **Created:** 2024 
-- **Modified:** 2024 
+- **Created:** 2024-01-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Confluence Unity REST API
-REST API for managing spaces, pages, content, and users in Confluence Unity
+### Confluence Unity Platform
 
-**Human URL:** [https://confluence.unity.com/display/API](https://confluence.unity.com/display/API)
+Confluence Unity is the unified fund administration platform from Confluence Technologies. It consolidates regulatory reporting, financial and shareholder reporting, performance measurement, and reconciliation into a single hosted environment for asset managers and fund administrators. Unity components include Unity Financial Reporting, Unity Performance, and Unity Rex, an AI-driven tool that detects discrepancies between financial reports and the underlying TSR data.
 
+**Human URL:** [https://www.confluence.com/products/](https://www.confluence.com/products/)
 
-#### Tags:
+#### Tags
 
- - REST, content, spaces, pages
-
-#### Properties
-
-- [Documentation](https://confluence.unity.com/rest/api/docs)
-- [OpenAPI](https://confluence.unity.com/rest/api/openapi.json)
-- [Authentication](https://confluence.unity.com/display/API/Authentication)
-
-### Confluence Unity Content API
-API for creating, reading, updating, and deleting content in Confluence
-
-
-#### Tags:
-
- - content, CRUD, pages, blog posts
+- Financial Reporting, Fund Administration, Performance, SaaS
 
 #### Properties
 
-- [Documentation](https://confluence.unity.com/rest/api/content/docs)
-- [Swagger](https://confluence.unity.com/rest/api/content/swagger.json)
+- [Documentation](https://www.confluence.com/products/)
+- [Website](https://www.confluence.com/)
 
-### Confluence Unity Search API
-API for searching content across Confluence spaces
+#### Features
 
+- Unity Financial Reporting
+- Unity Performance
+- Unity Rex AI Reconciliation
+- Regulatory Reporting
+- Shareholder Reporting
+- Document and Template Production
+- Performance Measurement
+- Data Consolidation
 
-#### Tags:
+#### Use Cases
 
- - search, CQL, query
-
-#### Properties
-
-- [Documentation](https://confluence.unity.com/rest/api/search/docs)
+- Produce regulatory reports for global investment funds
+- Reconcile financial reports against TSR data with AI
+- Measure and attribute fund performance
+- Consolidate fund data across administrators and custodians
+- Automate shareholder report production
 
 ## Common Properties
 
-- [Authentication](https://confluence.unity.com/display/API/Authentication)
-- [Rate Limits](https://confluence.unity.com/display/API/Rate-Limits)
-- [Error Codes](https://confluence.unity.com/display/API/Error-Codes)
-- [Change Log](https://confluence.unity.com/display/API/Changelog)
-- [Terms of Service](https://unity.com/legal/terms-of-service)
-- [Privacy Policy](https://unity.com/legal/privacy-policy)
+- [Website](https://www.confluence.com/)
+- [Products](https://www.confluence.com/products/)
+- [AI Innovation: Unity Rex](https://www.confluence.com/ai-innovation-lab-unveils-unity-rex/)
+- [Insights](https://www.confluence.com/insights/)
+- [Contact](https://www.confluence.com/contact-us/)
+- [Careers](https://www.confluence.com/careers/)
+- [Login](https://www.confluence.com/login/)
 
 ## Maintainers
 
-**FN:** Unity Technologies
+**FN:** Kin Lane
 
-**Email:** api-support@unity.com
+**Email:** kin@apievangelist.com
