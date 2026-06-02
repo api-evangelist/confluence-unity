@@ -2,12 +2,17 @@
   "repo": "confluence-unity",
   "feeds": [
     {
-      "source": "https://www.confluence.com/insights/",
+      "source": "https://www.confluence.com/insights/feed/",
       "feed_url": "https://www.confluence.com/insights/feed/",
-      "title": "Insights - Confluence Technologies",
-      "saved": 4
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.confluence.com/ai-innovation-lab-unveils-unity-rex/",
+      "error": "HTTPError"
     }
   ],
-  "post_count": 13,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 15,
+  "fetched": "2026-06-01T23:35:02Z"
 }
