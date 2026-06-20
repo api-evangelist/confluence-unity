@@ -14,7 +14,7 @@ description: >-
 type: Index
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/confluence-unity/refs/heads/main/apis.yml
 created: '2024-01-01'
@@ -42,7 +42,7 @@ apis:
       Unity Performance, and Unity Rex, an AI-driven tool that detects
       discrepancies between financial reports and the underlying TSR data.
     humanURL: https://www.confluence.com/products/
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     tags:
       - Financial Reporting
       - Fund Administration
