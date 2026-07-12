@@ -69,6 +69,10 @@ apis:
       - Consolidate fund data across administrators and custodians
       - Automate shareholder report production
 common:
+  - type: VulnerabilityDisclosure
+    url: security/confluence-unity-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/confluence-unity-domain-security.yml
   - type: Website
     url: https://www.confluence.com/
   - type: Products
