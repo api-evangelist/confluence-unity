@@ -12,13 +12,25 @@ description: >-
   documentation, so developer access is typically arranged through Confluence
   account teams.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/confluence-unity.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/confluence-unity/refs/heads/main/apis.yml
 created: '2024-01-01'
-modified: '2026-04-28'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 kind: company
 tags:
@@ -30,44 +42,7 @@ tags:
   - Performance Analytics
   - Regulatory Reporting
   - SaaS
-apis:
-  - aid: confluence-unity:unity-platform
-    name: Confluence Unity Platform
-    description: >-
-      Confluence Unity is the unified fund administration platform from
-      Confluence Technologies. It consolidates regulatory reporting, financial
-      and shareholder reporting, performance measurement, and reconciliation
-      into a single hosted environment for asset managers and fund
-      administrators. Unity components include Unity Financial Reporting,
-      Unity Performance, and Unity Rex, an AI-driven tool that detects
-      discrepancies between financial reports and the underlying TSR data.
-    humanURL: https://www.confluence.com/products/
-    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    tags:
-      - Financial Reporting
-      - Fund Administration
-      - Performance
-      - SaaS
-    properties:
-      - type: Documentation
-        url: https://www.confluence.com/products/
-      - type: Website
-        url: https://www.confluence.com/
-    x-features:
-      - Unity Financial Reporting
-      - Unity Performance
-      - Unity Rex AI Reconciliation
-      - Regulatory Reporting
-      - Shareholder Reporting
-      - Document and Template Production
-      - Performance Measurement
-      - Data Consolidation
-    x-use-cases:
-      - Produce regulatory reports for global investment funds
-      - Reconcile financial reports against TSR data with AI
-      - Measure and attribute fund performance
-      - Consolidate fund data across administrators and custodians
-      - Automate shareholder report production
+apis: []
 common:
   - type: VulnerabilityDisclosure
     url: security/confluence-unity-vulnerability-disclosure.yml

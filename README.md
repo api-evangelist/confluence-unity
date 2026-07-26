@@ -22,11 +22,6 @@ Confluence Unity is the unified fund administration and reporting platform from 
 
 ## APIs
 
-### Confluence Unity Platform
-
-Confluence Unity is the unified fund administration platform from Confluence Technologies. It consolidates regulatory reporting, financial and shareholder reporting, performance measurement, and reconciliation into a single hosted environment for asset managers and fund administrators. Unity components include Unity Financial Reporting, Unity Performance, and Unity Rex, an AI-driven tool that detects discrepancies between financial reports and the underlying TSR data.
-
-**Human URL:** [https://www.confluence.com/products/](https://www.confluence.com/products/)
 
 #### Tags
 
