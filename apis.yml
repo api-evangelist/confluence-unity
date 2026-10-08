@@ -64,6 +64,12 @@ tags_raw:
   - SaaS
 apis: []
 common:
+  - type: Plans
+    url: plans/confluence-unity-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/confluence-unity-rate-limits.yml
+  - type: FinOps
+    url: finops/confluence-unity-finops.yml
   - type: VulnerabilityDisclosure
     url: security/confluence-unity-vulnerability-disclosure.yml
   - type: DomainSecurity
