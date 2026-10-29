@@ -1,4 +1,4 @@
-# Confluence Unity (confluence-unity)
+# Confluence Unity
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,67 +66,97 @@
 
 Confluence Unity is the unified fund administration and reporting platform from Confluence Technologies, a software provider focused on the global investment management industry. The Unity suite (including Unity Financial Reporting, Unity Performance, and Unity Rex for AI-driven reconciliation) consolidates data, regulatory and shareholder reporting, and performance analytics for asset managers, fund administrators, and asset servicers. Confluence operates Unity as a hosted SaaS platform with integrations into client data warehouses; the public site does not publish open developer API documentation, so developer access is typically arranged through Confluence account teams.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/confluence-unity/refs/heads/main/apis.yml)
+**Areas:** Asset Management · Asset Servicing · Financial Reporting · Fund Administration · Investment Management · Performance Analytics · Regulatory Reporting · Software-as-a-Service
 
-## Scope
+## Confluence Unity on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
-- **Classification:** Company
+Everything profiled for Confluence Unity is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/confluence-unity/](https://apis.io/providers/confluence-unity/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Asset Management, Asset Servicing, Financial Reporting, Fund Administration, Investment Management, Performance Analytics, Regulatory Reporting, SaaS
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (2)
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Confluence Unity Domain Security](https://apis.io/security/confluence-unity/confluence-unity-domain-security/)
+- [Confluence Unity Vulnerability Disclosure](https://apis.io/security/confluence-unity/confluence-unity-vulnerability-disclosure/)
 
+#### Plans and pricing (1)
 
-#### Tags
+Published plans, tiers and prices.
 
-- Financial Reporting, Fund Administration, Performance, SaaS
+- [Confluence Unity Plans Pricing](https://apis.io/plans/confluence-unity/confluence-unity-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://www.confluence.com/products/)
-- [Website](https://www.confluence.com/)
+Published request limits.
 
-#### Features
+- [Confluence Unity Rate Limits](https://apis.io/rate-limits/confluence-unity/confluence-unity-rate-limits/)
 
-- Unity Financial Reporting
-- Unity Performance
-- Unity Rex AI Reconciliation
-- Regulatory Reporting
-- Shareholder Reporting
-- Document and Template Production
-- Performance Measurement
-- Data Consolidation
+#### FinOps (1)
 
-#### Use Cases
+What the API costs to run, by operation.
 
-- Produce regulatory reports for global investment funds
-- Reconcile financial reports against TSR data with AI
-- Measure and attribute fund performance
-- Consolidate fund data across administrators and custodians
-- Automate shareholder report production
+- [Confluence Unity Finops](https://apis.io/finops/confluence-unity/confluence-unity-finops/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.confluence.com/)
-- [Products](https://www.confluence.com/products/)
-- [AI Innovation: Unity Rex](https://www.confluence.com/ai-innovation-lab-unveils-unity-rex/)
-- [Insights](https://www.confluence.com/insights/)
-- [Contact](https://www.confluence.com/contact-us/)
-- [Careers](https://www.confluence.com/careers/)
-- [Login](https://www.confluence.com/login/)
+- [Blog](https://www.confluence.com/insights/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 8.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 14.5 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/confluence-unity/](https://apis.io/providers/confluence-unity/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Confluence Unity: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/confluence-unity/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
